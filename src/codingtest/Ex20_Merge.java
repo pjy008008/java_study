@@ -27,7 +27,6 @@ public class Ex20_Merge {
             return;
         }
         int m = s + (e - s) / 2;
-        mergeSort(s, m);
         mergeSort(m + 1, e);
         for (int i = s; i <= e; i++) {
             tmp[i] = arr[i];
