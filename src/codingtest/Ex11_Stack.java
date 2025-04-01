@@ -3,7 +3,7 @@ package codingtest;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Ex11 {
+public class Ex11_Stack {
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
         Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package codingtest;
 
 import java.util.Scanner;
 
-public class Ex15 {
+public class Ex15_Bubble {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

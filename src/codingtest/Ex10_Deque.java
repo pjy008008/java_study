@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Scanner;
 
-public class Ex10 {
+public class Ex10_Deque {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Deque<Node> deque = new ArrayDeque<>();

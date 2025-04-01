@@ -2,7 +2,7 @@ package codingtest;
 
 import java.util.Scanner;
 
-public class Ex3 {
+public class Ex3_PrefixSum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

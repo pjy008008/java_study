@@ -3,7 +3,7 @@ package codingtest;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class Ex14 {
+public class Ex14_PriorityQueue {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

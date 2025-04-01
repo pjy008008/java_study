@@ -2,7 +2,7 @@ package codingtest;
 
 import java.util.Scanner;
 
-public class Ex9 {
+public class Ex9_SlidingWindow {
     public static void main(String arg[]) {
         Scanner sc = new Scanner(System.in);
         int p =sc.nextInt();
