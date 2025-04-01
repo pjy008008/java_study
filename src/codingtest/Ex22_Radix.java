@@ -36,7 +36,7 @@ public class Ex22_Radix {
             for (int i = 1; i < 10; i++) {
                 bucket[i] += bucket[i - 1];
             }
-            for (int i = 0; i < arr.length; i++) {
+            for (int i = arr.length - 1; i >= 0; i--) {
                 output[bucket[arr[i] / divisor % 10] - 1] = arr[i];
                 bucket[arr[i] / divisor % 10]--;
             }
