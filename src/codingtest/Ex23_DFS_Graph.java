@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Ex23_Dfs_Graph {
+public class Ex23_DFS_Graph {
     static ArrayList<Integer>[] graph;
     static boolean[] isVisited;
     public static void main(String[] args) throws IOException {
