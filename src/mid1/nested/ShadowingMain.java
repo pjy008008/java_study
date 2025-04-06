@@ -1,4 +1,4 @@
-package mid1.nested.inner;
+package mid1.nested;
 
 public class ShadowingMain {
     public int value =1;
