@@ -56,7 +56,7 @@
 - **Generic**, **WildCard**, **Type Erasure** 개념 이해
 - **컬렉션 프레임워크(Collection Framework)**
   - **List** 계열: `ArrayList`, `LinkedList`
-  - **Set** 계열: `HashSet`, `Set`
+  - **Set** 계열: `HashSet`, `LinkedHashSet`, `TreeSet`
   - **Map** 계열: `HashMap`, `Map`
   - 기타 자료구조: `Stack`, `Queue`
 - **Iterable**과 **Iterator** 인터페이스
