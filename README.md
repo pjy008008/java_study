@@ -63,3 +63,13 @@
 - **Iterable**과 **Iterator** 인터페이스
 - **Comparable**과 **Comparator** 인터페이스를 통한 정렬
 - **Collections Utility 클래스** 활용 (`Collections.sort()`, `shuffle()` 등)
+
+---
+
+## 📜 수료증
+
+[자바 기초편 수료증](https://github.com/user-attachments/files/19672521/default.pdf)
+
+[자바 중급1편 수료증](https://github.com/user-attachments/files/19672522/1.pdf)
+
+[자바 중급 2편 수료증](https://github.com/user-attachments/files/19672528/2.pdf)
