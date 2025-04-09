@@ -58,7 +58,7 @@
   - **List** 계열: `ArrayList`, `LinkedList`
   - **Set** 계열: `HashSet`, `LinkedHashSet`, `TreeSet`
   - **Map** 계열: `HashMap`, `LinkedHashMap`, `TreeMap`
-  - **Deque** 계열: `ArrayDeque`, `LinkedList`
+  - **Queue** 계열: `ArrayDeque`, `LinkedList`, `PriorityQueue`
   - 기타 자료구조: `Stack`, `Queue`
 - **Iterable**과 **Iterator** 인터페이스
 - **Comparable**과 **Comparator** 인터페이스를 통한 정렬
